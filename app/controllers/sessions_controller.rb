@@ -17,6 +17,6 @@ class SessionsController < ApplicationController
   private
 
   def session_params
-    params.require(:session).permit(:name, :score)
+    params.require(:session).permit(:name, :score, :fastest_time)
   end
 end
