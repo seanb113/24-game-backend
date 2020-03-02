@@ -41,3 +41,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/adybas
 ## License
 
 The code is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+## Screenshots
+
+Please visit [the frontend repo](https://github.com/adybas/JS-24-Game-Frontend) for screenshots of the gameplay.
