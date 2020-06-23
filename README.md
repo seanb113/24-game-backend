@@ -12,7 +12,7 @@ Available features:
 
 ## Installation
 
-- Fork and clone this repo and [the frontend repo](https://github.com/adybas/JS-24-Game-Frontend)
+- Fork and clone this repo and [the frontend repo](https://github.com/seanb113/24-frontend)
 
 - first cd into the js-24-game-backend directory
   - Run `$ rails db:create`
